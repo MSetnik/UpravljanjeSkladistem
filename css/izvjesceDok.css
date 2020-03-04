@@ -1,0 +1,44 @@
+#tablicaIzvjesceDok td
+{
+	border-top:solid #0000004a 1px;
+	border-bottom: solid #0000004a 1px;
+	padding: 10px;
+}
+
+#tablicaIzvjesceDok th
+{
+	border:solid  #0000004a 1px;
+	padding:0px 10px 0px 10px;
+	font-size:18px;
+}
+
+#tablicaIzvjesceDok
+{
+	overflow: auto;
+	text-align: center;
+	margin:80px 40px 50px 570px;
+}
+
+#pretragaDok h4
+{
+	margin-left: 13px;
+}
+
+#pretragaDok
+{
+	display: inline-block;
+	padding-left: 600px;
+	padding-top: 50px;
+}
+
+#vremenskaPretraga
+{
+	display:inline-block;
+	margin-top: -100px;
+	padding-left: 400px;
+}
+
+#pretrage
+{
+	margin-left:130px;
+}

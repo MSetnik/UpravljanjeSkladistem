@@ -1,0 +1,115 @@
+
+ {
+    "sifra_artikla": 1,
+    "naziv_artikla": "Opeka 50x19x19 cm",
+    "JMJ": "kom",
+    "cijena_artikla": 7.00
+  },
+  {
+    "sifra_artikla": 2,
+    "naziv_artikla": "Ljepilo za keramiku",
+    "JMJ": "kg",
+    "cijena_artikla": 1.50
+  },
+  {
+    "sifra_artikla": 3,
+    "naziv_artikla": "Bakrena cijev 15x0,8 mm",
+    "JMJ": "m",
+    "cijena_artikla": 23.00
+  },
+  {
+    "sifra_artikla": 4,
+    "naziv_artikla": "Zbuka temeljna",
+    "JMJ": "kg",
+    "cijena_artikla": 1.50
+  },
+  {
+    "sifra_artikla": 5,
+    "naziv_artikla": "Cement Optimo",
+    "JMJ": "kg",
+    "cijena_artikla": 1.00
+  },
+  {
+    "sifra_artikla": 7,
+    "naziv_artikla": "Betonski blok 40x20x16 cm",
+    "JMJ": "kom",
+    "cijena_artikla": 20.00
+  },
+  {
+    "sifra_artikla": 8,
+    "naziv_artikla": "Armaturna mreza 1x2 m",
+    "JMJ": "kom",
+    "cijena_artikla": 24.00
+  },
+  {
+    "sifra_artikla": 9,
+    "naziv_artikla": "Stiropor za fasade 8 cm",
+    "JMJ": "m2",
+    "cijena_artikla": 28.00
+  },
+  {
+    "sifra_artikla": 10,
+    "naziv_artikla": "Crijep TONDACH (10 kom/m2)",
+    "JMJ": "kom",
+    "cijena_artikla": 8.00
+  },
+  {
+    "sifra_artikla": 11,
+    "naziv_artikla": "Građevinska kolica (tačke) 75 L",
+    "JMJ": "kom",
+    "cijena_artikla": 275.00
+  },
+  {
+    "sifra_artikla": 12,
+    "naziv_artikla": "Gipsana ploča, vlagootporna 12,5 mm x 1,2 x 2 m",
+    "JMJ": "m2",
+    "cijena_artikla": 22.00
+  },
+  {
+    "sifra_artikla": 13,
+    "naziv_artikla": "Aluminijska skela 475 cm, pokretna",
+    "JMJ": "kom",
+    "cijena_artikla": 3425.00
+  },
+  {
+    "sifra_artikla": 14,
+    "naziv_artikla": "Traka za preklope i sanacije krovnih folija 5 cm x 25 m",
+    "JMJ": "kom",
+    "cijena_artikla": 66.00
+  },
+  {
+    "sifra_artikla": 15,
+    "naziv_artikla": "Krovna folija 140 g/m2",
+    "JMJ": "m2",
+    "cijena_artikla": 5.00
+  },
+  {
+    "sifra_artikla": 16,
+    "naziv_artikla": "Vratašca za dimnjak 12 x 18 cm",
+    "JMJ": "kom",
+    "cijena_artikla": 90.00
+  },
+  {
+    "sifra_artikla": 17,
+    "naziv_artikla": "Glet masa za spojeve gipsanih (knauf) ploča",
+    "JMJ": "kg",
+    "cijena_artikla": 5.50
+  },
+  {
+    "sifra_artikla": 18,
+    "naziv_artikla": "Cijevna izolacija za solarne sustave 20 x 35 mm",
+    "JMJ": "m",
+    "cijena_artikla": 78.00
+  },
+  {
+    "sifra_artikla": 19,
+    "naziv_artikla": "Fleksibilna cijev za ventilaciju (napu) fi 150 mm / 3 mb",
+    "JMJ": "kom",
+    "cijena_artikla": 90.00
+  },
+  {
+    "sifra_artikla": 20,
+    "naziv_artikla": "Kamena vuna za fasade 8 cm",
+    "JMJ": "m2",
+    "cijena_artikla": 65.00
+  }

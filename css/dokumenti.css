@@ -1,0 +1,77 @@
+table tr td
+{
+	padding:10px 0px;
+	padding-left:25px;
+}
+
+table tr td:first-child
+{
+	text-align: center;
+}
+
+.tablicaDok td
+{
+	border-top:solid #0000004a 1px;
+	border-bottom: solid #0000004a 1px;
+	padding: 10px;
+}
+
+.tablicaDok th
+{
+	border:solid  #0000004a 1px;
+	padding:0px 10px 0px 10px;
+	font-size:18px;
+}
+
+.tablicaDok
+{
+	
+	text-align: center;
+	padding:50px 50px 50px 100px;
+}
+
+#container, #containerP
+{
+	padding:50px 0 50px 0;
+	text-align: center;
+	border: solid black 1px;
+	margin:20px 450px 0px 450px;
+}
+
+td input
+{
+	width:180px;
+}
+
+.containerDok
+{
+	width:650px;
+	margin:10px 40px 0 80px;
+	float:left;
+}
+
+#naruci
+{
+	width: 650px;
+	float:right;
+	margin-right: 50px;
+	margin-top: 50px;
+
+}
+
+#pretraga
+{
+	display: inline;
+	float:left;
+}
+
+.pretragaDok
+{
+	padding-top: 40px;
+	padding-left: 100px;
+}
+
+#ukupno
+{
+	float:left;
+}

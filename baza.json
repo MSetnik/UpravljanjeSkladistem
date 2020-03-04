@@ -1,0 +1,342 @@
+{
+  "korisnici": {
+    "0": {
+      "prezime": "Horvat",
+      "ime": "Ivan",
+      "username": "hivan",
+      "password": "hivan"
+    },
+    "1": {
+      "prezime": "Perić",
+      "ime": "Pero",
+      "username": "ppero",
+      "password": "ppero"
+    }
+  },
+  "artikli": {
+    "001": {
+      "naziv_artikla": "Mjesalica za beton 130L",
+      "JMJ": "kom",
+      "cijena_artikla": 1600.00
+    },
+    "002": {
+      "naziv_artikla": "Opeka 50x19x19 cm",
+      "JMJ": "kom",
+      "cijena_artikla": 7.00
+    },
+    "003": {
+      "naziv_artikla": "Ljepilo za keramiku",
+      "JMJ": "kg",
+      "cijena_artikla": 1.50
+    },
+    "004": {
+      "naziv_artikla": "Bakrena cijev 15x0,8 mm",
+      "JMJ": "m",
+      "cijena_artikla": 23.00
+    },
+    "005": {
+      "naziv_artikla": "Zbuka temeljna",
+      "JMJ": "kg",
+      "cijena_artikla": 1.50
+    },
+    "006": {
+      "naziv_artikla": "Cement Optimo",
+      "JMJ": "kg",
+      "cijena_artikla": 1.00
+    },
+    "007": {
+      "naziv_artikla": "Betonski blok 40x20x16 cm",
+      "JMJ": "kom",
+      "cijena_artikla": 20.00
+    },
+    "008": {
+      "naziv_artikla": "Armaturna mreza 1x2 m",
+      "JMJ": "kom",
+      "cijena_artikla": 24.00
+    },
+    "009": {
+      "naziv_artikla": "Stiropor za fasade 8 cm",
+      "JMJ": "m2",
+      "cijena_artikla": 28.00
+    },
+    "010": {
+      "naziv_artikla": "Crijep TONDACH (10 kom/m2)",
+      "JMJ": "kom",
+      "cijena_artikla": 8.00
+    },
+    "011": {
+      "naziv_artikla": "Građevinska kolica (tačke) 75 L",
+      "JMJ": "kom",
+      "cijena_artikla": 275.00
+    },
+    "012": {
+      "naziv_artikla": "Gipsana ploča, vlagootporna 12,5 mm x 1,2 x 2 m",
+      "JMJ": "m2",
+      "cijena_artikla": 22.00
+    },
+    "013": {
+      "naziv_artikla": "Aluminijska skela 475 cm, pokretna",
+      "JMJ": "kom",
+      "cijena_artikla": 3425.00
+    },
+    "014": {
+      "naziv_artikla": "Traka za preklope i sanacije krovnih folija 5 cm x 25 m",
+      "JMJ": "kom",
+      "cijena_artikla": 66.00
+    },
+    "015": {
+      "naziv_artikla": "Krovna folija 140 g/m2",
+      "JMJ": "m2",
+      "cijena_artikla": 5.00
+    },
+    "016": {
+      "naziv_artikla": "Vratašca za dimnjak 12 x 18 cm",
+      "JMJ": "kom",
+      "cijena_artikla": 90.00
+    },
+    "017": {
+      "naziv_artikla": "Glet masa za spojeve gipsanih (knauf) ploča",
+      "JMJ": "kg",
+      "cijena_artikla": 5.50
+    },
+    "018": {
+      "naziv_artikla": "Cijevna izolacija za solarne sustave 20 x 35 mm",
+      "JMJ": "m",
+      "cijena_artikla": 78.00
+    },
+    "019": {
+      "naziv_artikla": "Fleksibilna cijev za ventilaciju (napu) fi 150 mm / 3 mb",
+      "JMJ": "kom",
+      "cijena_artikla": 90.00
+    },
+    "020": {
+      "naziv_artikla": "Kamena vuna za fasade 8 cm",
+      "JMJ": "m2",
+      "cijena_artikla": 65.00
+    }
+  },
+  "dokumenti": {
+    "0": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "001",
+      "kolicina": 10
+    },
+    "1": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "002",
+      "kolicina": 1000
+    },
+    "2": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "003",
+      "kolicina": 50
+    },
+    "3": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "004",
+      "kolicina": 70
+    },
+    "4": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "005",
+      "kolicina": 100
+    },
+    "5": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "006",
+      "kolicina": 200
+    },
+    "6": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "007",
+      "kolicina": 100
+    },
+    "7": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "008",
+      "kolicina": 200
+    },
+    "8": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "009",
+      "kolicina": 300
+    },
+    "9": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "010",
+      "kolicina": 1000
+    },
+    "10": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "011",
+      "kolicina": 50
+    },
+    "11": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "012",
+      "kolicina": 200
+    },
+    "12": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "013",
+      "kolicina": 10
+    },
+    "13": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "014",
+      "kolicina": 100
+    },
+    "14": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "015",
+      "kolicina": 1000
+    },
+    "15": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "016",
+      "kolicina": 100
+    },
+    "16": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "017",
+      "kolicina": 100
+    },
+    "17": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "018",
+      "kolicina": 200
+    },
+    "18": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "019",
+      "kolicina": 200
+    },
+    "19": {
+      "tip_dokumenta": "PS",
+      "datum_dokumenta": "2018-01-01",
+      "sifra_artikla": "020",
+      "kolicina": 100
+    },
+    "20": {
+      "tip_dokumenta": "PR",
+      "datum_dokumenta": "2018-01-03",
+      "sifra_artikla": "010",
+      "kolicina": 100
+    },
+    "21": {
+      "tip_dokumenta": "PR",
+      "datum_dokumenta": "2018-01-06",
+      "sifra_artikla": "010",
+      "kolicina": 50
+    },
+    "22": {
+      "tip_dokumenta": "IZD",
+      "datum_dokumenta": "2018-01-08",
+      "sifra_artikla": "010",
+      "kolicina": 10
+    },
+    "23": {
+      "tip_dokumenta": "IZD",
+      "datum_dokumenta": "2018-01-10",
+      "sifra_artikla": "010",
+      "kolicina": 50
+    },
+    "24": {
+      "tip_dokumenta": "IZD",
+      "datum_dokumenta": "2018-01-15",
+      "sifra_artikla": "001",
+      "kolicina": 1
+    },
+    "25": {
+      "tip_dokumenta": "IZD",
+      "datum_dokumenta": "2018-01-26",
+      "sifra_artikla": "001",
+      "kolicina": 2
+    },
+    "26": {
+      "tip_dokumenta": "IZD",
+      "datum_dokumenta": "2018-02-03",
+      "sifra_artikla": "002",
+      "kolicina": 500
+    },
+    "27": {
+      "tip_dokumenta": "PR",
+      "datum_dokumenta": "2018-02-03",
+      "sifra_artikla": "006",
+      "kolicina": 5
+    },
+    "28": {
+      "tip_dokumenta": "PR",
+      "datum_dokumenta": "2018-02-13",
+      "sifra_artikla": "006",
+      "kolicina": 6
+    },
+    "29": {
+      "tip_dokumenta": "IZD",
+      "datum_dokumenta": "2018-03-05",
+      "sifra_artikla": "006",
+      "kolicina": 1
+    },
+    "30": {
+      "tip_dokumenta": "IZD",
+      "datum_dokumenta": "2018-04-07",
+      "sifra_artikla": "006",
+      "kolicina": 10
+    },
+    "31": {
+      "tip_dokumenta": "IZD",
+      "datum_dokumenta": "2018-05-11",
+      "sifra_artikla": "007",
+      "kolicina": 1
+    },
+    "32": {
+      "tip_dokumenta": "IZD",
+      "datum_dokumenta": "2018-05-11",
+      "sifra_artikla": "008",
+      "kolicina": 1
+    },
+    "33": {
+      "tip_dokumenta": "IZD",
+      "datum_dokumenta": "2018-06-12",
+      "sifra_artikla": "008",
+      "kolicina": 2
+    },
+    "34": {
+      "tip_dokumenta": "IZD",
+      "datum_dokumenta": "2018-07-12",
+      "sifra_artikla": "007",
+      "kolicina": 1
+    },
+    "35": {
+      "tip_dokumenta": "PR",
+      "datum_dokumenta": "2018-08-26",
+      "sifra_artikla": "007",
+      "kolicina": 3
+    },
+    "36": {
+      "tip_dokumenta": "PR",
+      "datum_dokumenta": "2018-08-26",
+      "sifra_artikla": "001",
+      "kolicina": 2
+    }
+  } 
+}
